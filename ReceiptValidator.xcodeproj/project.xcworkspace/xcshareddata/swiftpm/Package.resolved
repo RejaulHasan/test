@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "swifty-receipt-validator",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/crashoverride777/swifty-receipt-validator.git",
+      "state" : {
+        "revision" : "737cdefc8975775b9fa4b82d3e445c05affb3107",
+        "version" : "6.5.0"
+      }
+    }
+  ],
+  "version" : 2
+}

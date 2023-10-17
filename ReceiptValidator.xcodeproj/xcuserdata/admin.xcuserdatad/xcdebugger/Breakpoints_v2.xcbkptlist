@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "4FA3BC26-CDB8-4670-BD90-F87D25C1F409"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A653B4BF-BE76-4F8D-B002-BEAAACACA0AE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ReceiptValidator/ReceiptFetcher/FetchReceipt.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "fetchReceipt()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A653B4BF-BE76-4F8D-B002-BEAAACACA0AE - 9aef6d3b8bbe4b72"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ReceiptValidator.FetchReceipt.fetchReceipt() -&gt; ()"
+                  moduleName = "ReceiptValidator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Desktop/Reusable_Components/ReceiptValidator/ReceiptValidator/ReceiptFetcher/FetchReceipt.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "276">
+               </Location>
+               <Location
+                  uuid = "A653B4BF-BE76-4F8D-B002-BEAAACACA0AE - 9aef6d3b8bbe45c6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ReceiptValidator.FetchReceipt.fetchReceipt() -&gt; ()"
+                  moduleName = "ReceiptValidator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Desktop/Reusable_Components/ReceiptValidator/ReceiptValidator/ReceiptFetcher/FetchReceipt.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "1008">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7B4605B6-8616-4D30-8A00-62EB969FCDA2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ReceiptValidator/ReceiptFetcher/FetchReceipt.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "fetchReceipt()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7B4605B6-8616-4D30-8A00-62EB969FCDA2 - 9aef6d3b8bbe4b72"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ReceiptValidator.FetchReceipt.fetchReceipt() -&gt; ()"
+                  moduleName = "ReceiptValidator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Desktop/Reusable_Components/ReceiptValidator/ReceiptValidator/ReceiptFetcher/FetchReceipt.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "276">
+               </Location>
+               <Location
+                  uuid = "7B4605B6-8616-4D30-8A00-62EB969FCDA2 - 9aef6d3b8bbe4561"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ReceiptValidator.FetchReceipt.fetchReceipt() -&gt; ()"
+                  moduleName = "ReceiptValidator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Desktop/Reusable_Components/ReceiptValidator/ReceiptValidator/ReceiptFetcher/FetchReceipt.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "548">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
